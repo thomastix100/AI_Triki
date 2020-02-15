@@ -4,4 +4,4 @@ los nodos terminales y corrigiendo eso se puede mejorar
 
 Este código es autoría del profesor de inteligencia artificial de la Universidad del Cauca fecha 
 14_02_2020, del profesor solo es la base lo demás es de mí autoría Tomas Escobar estudiande del 
-programa de ingeniería de sistemas de la Universidad del Cauca
+programa de ingeniería de sistemas de la Universidad del Cauca.
